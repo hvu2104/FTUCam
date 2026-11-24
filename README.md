@@ -1,4 +1,4 @@
-# UTA — Nhận diện khách gọi phục vụ
+# FTUCam — Nhận diện khách gọi phục vụ
 
 Web tĩnh (một file `index.html`), AI chạy ngay trong trình duyệt bằng MediaPipe Pose Landmarker. Không cần server, không lưu dữ liệu.
 
