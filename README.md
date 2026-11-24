@@ -1,6 +1,6 @@
 # FTUCam — Nhận diện khách gọi phục vụ
 
-Web tĩnh (một file `index.html`), AI chạy ngay trong trình duyệt bằng MediaPipe Pose Landmarker. Không cần server, không lưu dữ liệu.
+Web tĩnh (một file `index.html`), AI chạy ngay trong trình duyệt bằng MediaPipe Pose Landmarker. Có 3 nguồn hình (tải video, có dây, không dây qua QR) và báo cáo từng khách: số lần giơ tay, giơ lâu nhất, vẫy tay, mức cao nhất, diễn biến theo thời gian, xuất CSV. Không cần server, không lưu dữ liệu.
 
 ## Chạy trên máy
 ```
